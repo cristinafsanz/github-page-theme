@@ -12,6 +12,6 @@ Procedimiento explicado en la parte de Project Site de https://pages.github.com/
 
 - Hacer commit. 
 
-- Ya se tiene.
+- Se tiene el texto con el estilo elegido público en https://cristinafsanz.github.io/github-page-theme/. Además del README aparece el fichero de configuración de Jekyll para añadir el tema elegido. 
   
 
